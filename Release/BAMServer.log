@@ -1,0 +1,10 @@
+﻿  BAMServer.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+  코드를 생성하고 있습니다.
+  All 516 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  BAMServer.vcxproj -> C:\Users\USER\Desktop\Study\BAM\BAMServer\Release\BAMServer.exe
+  BAMServer.vcxproj -> C:\Users\USER\Desktop\Study\BAM\BAMServer\Release\BAMServer.pdb (Full PDB)
